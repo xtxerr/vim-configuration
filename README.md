@@ -1,1 +1,1 @@
-The beauty of VIM.
+no vim, no life
